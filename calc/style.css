@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    color: #fdfffc;
+    background-image: url(https://images.freeimages.com/images/large-previews/dfa/stars-1332301.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: transparent;
+    color: rgb(244, 238, 238);
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:rgb(87, 42, 76);
+    cursor: pointer;
+}
